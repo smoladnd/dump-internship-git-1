@@ -10,8 +10,13 @@ namespace tic_tac_toe_2
             Console.WriteLine("Mislav ima 0 pobjeda i 0 poraza!");
 
             Console.WriteLine("   |   |   ");
+<<<<<<< HEAD
             Console.WriteLine("   | x | 0 ");
             Console.WriteLine("   |   |   ");
+=======
+            Console.WriteLine("   | x |   ");
+            Console.WriteLine("   | x |   ");
+>>>>>>> d494509 (Mislavov (krizic) drugi potez)
         }
     }
 }
