@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Mislav ima 0 pobjeda i 0 poraza!");
 
             Console.WriteLine("   |   |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   |   | x ");
             Console.WriteLine("   |   |   ");
         }
     }
