@@ -6,11 +6,11 @@ namespace tic_tac_toe_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tomislav ima 0 pobjeda i 0 poraza!");
-            Console.WriteLine("Mislav ima 0 pobjeda i 0 poraza!");
+            Console.WriteLine("Tomislav ima 0 pobjeda i 1 poraza!");
+            Console.WriteLine("Mislav ima 1 pobjeda i 0 poraza!");
 
             Console.WriteLine(" x | 0 |   ");
-            Console.WriteLine(" x | x |   ");
+            Console.WriteLine(" x | x | 0 ");
             Console.WriteLine(" 0 |   |   ");
         }
     }
