@@ -11,7 +11,7 @@ namespace tic_tac_toe_3
 
             Console.WriteLine(" x | 0 |   ");
             Console.WriteLine(" x | x | 0 ");
-            Console.WriteLine(" 0 |   |   ");
+            Console.WriteLine(" 0 |   | x ");
         }
     }
 }
